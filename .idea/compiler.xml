@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="gameCommands" />
+        <module name="gameRest" />
+        <module name="gameSoap" />
+        <module name="quizApi" />
+        <module name="quizImpl" />
+        <module name="report" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gameCommands" target="1.8" />
+      <module name="gameRest" target="1.8" />
+      <module name="gameSoap" target="1.8" />
+      <module name="PG6100Exam" target="1.5" />
+      <module name="quizApi" target="1.8" />
+      <module name="quizImpl" target="1.8" />
+      <module name="report" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

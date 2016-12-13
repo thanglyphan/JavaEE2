@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PG6100Exam.iml" filepath="$PROJECT_DIR$/PG6100Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameCommands/gameCommands.iml" filepath="$PROJECT_DIR$/gameCommands/gameCommands.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameRest/gameRest.iml" filepath="$PROJECT_DIR$/gameRest/gameRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gameSoap/gameSoap.iml" filepath="$PROJECT_DIR$/gameSoap/gameSoap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizApi/quizApi.iml" filepath="$PROJECT_DIR$/quizApi/quizApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quizImpl/quizImpl.iml" filepath="$PROJECT_DIR$/quizImpl/quizImpl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/report/report.iml" filepath="$PROJECT_DIR$/report/report.iml" />
+    </modules>
+  </component>
+</project>

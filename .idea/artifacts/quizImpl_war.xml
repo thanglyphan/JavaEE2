@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="quizImpl:war">
+    <output-path>$PROJECT_DIR$/quizImpl/target</output-path>
+    <root id="archive" name="quizImpl-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="quizImpl:war exploded" />
+    </root>
+  </artifact>
+</component>
